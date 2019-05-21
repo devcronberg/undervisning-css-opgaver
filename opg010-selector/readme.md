@@ -2,10 +2,7 @@
 
 Dette er en simpel opgave i brugen af forskellige CSS selectors.
 
-Start med at skabe en HTML side med følgende opmærkninger (bare kopier):
-
-
-Du kan også kopiere [herfra](index.html)
+Start med at skabe en HTML side med [disse opmærkninger](index.html).
 
 Du skal nu åbne F12-toolet, åbne konsolen, og finde elementer ved hjælp af $$ (find flere elementer) - eksempelvis:
 
