@@ -10,7 +10,7 @@ Du skal nu åbne F12-toolet, åbne konsolen, og finde elementer ved hjælp af $$
 $$("p")
 ```
 
-burde finde og vise Allee p-opmærkninger.
+burde finde og vise alle p-opmærkninger.
 
 Prøv at se om du kan finde følgende:
 
