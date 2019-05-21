@@ -21,7 +21,7 @@ Prøv at se om du kan finde følgende:
 - p-opmærkninger med en id = myP1 eller id = myP2
 - p-opmærkning med en class = myClass1 
 - p-opmærkning med en class = myClass1 eller myClass2 
-- Alle p-opmærkninger under div-opmærknings
+- Alle p-opmærkninger under div-opmærkninger
 - Alle p-opmærkninger under div med id = div1
 - Alle p-opmærkninger under div med class = myClass3
 - Alle ul 
