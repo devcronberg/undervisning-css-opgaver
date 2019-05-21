@@ -18,7 +18,7 @@ Prøv at se om du kan finde følgende:
 - Alle images-opmærkninger 
 - Alle p-opmærkninger og images 
 - p-opmærkning med en id = myP1
-- p-opmærkninger med en id = myP1 eller id = myP1
+- p-opmærkninger med en id = myP1 eller id = myP2
 - p-opmærkning med en class = myClass1 
 - p-opmærkning med en class = myClass2 eller myClass2 
 - Alle p-opmærkninger under div-opmærknings
