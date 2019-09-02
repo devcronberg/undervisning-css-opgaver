@@ -15,24 +15,24 @@ Start med at skabe en HTML side med disse opmærkninger:
   <body>
     <h1>CSS Selector</h1>
 
-    <p>This is p-tag #1</p>
-    <p>This is p-tag #2</p>
-    <p>This is p-tag #3</p>
-    <p id="myP1">This is p-tag #4 with an id-value of "myP1"</p>
-    <p id="myP2">This is p-tag #5 with an id-value of "myP2"</p>
-    <p class="myClass1">This is p-tag #6 with an class-value of "myClass1"</p>
-    <p class="myClass2">This is p-tag #7 with an class-value of "myClass2"</p>
-    <p class="myClass1 myClass2">This is p-tag #8 with an class-value of "myClass1 myClass2"</p>
+    <p>p-tag #1</p>
+    <p>p-tag #2</p>
+    <p>p-tag #3</p>
+    <p id="myP1">p-tag #4 med id "myP1"</p>
+    <p id="myP2">p-tag #5 med id "myP2"</p>
+    <p class="myClass1">p-tag #6 med class "myClass1"</p>
+    <p class="myClass2">p-tag #7 med class "myClass2"</p>
+    <p class="myClass1 myClass2">p-tag #8 med class "myClass1 myClass2"</p>
     <div>
-      <p>This is p-tag #9 in a div</p>
+      <p>p-tag #9 i en div</p>
     </div>
     <div id="div1">
-      <p>This is p-tag #10 in a div with id-value of "div1"</p>
+      <p>p-tag #10 i en div med id "div1"</p>
     </div>
     <div id="div2" class="myClass3">
-      <p>This is p-tag #11 in a div with class-value of "myClass3"</p>
+      <p>p-tag #11 i en div med class "myClass3"</p>
     </div>
-    <p>This is a ul</p>
+    <p>Her kommer en ul</p>
     <ul>
       <li>Item 1</li>
       <li>Item 2</li>
@@ -40,7 +40,7 @@ Start med at skabe en HTML side med disse opmærkninger:
     </ul>
 
     <div>
-      <p>This is a ul in a div</p>
+      <p>Her er en ul i en div</p>
       <ul>
         <li>Item 1</li>
         <li>Item 2</li>
@@ -49,17 +49,17 @@ Start med at skabe en HTML side med disse opmærkninger:
         <li>Item 5</li>
       </ul>
     </div>
-    <p>This is an image with a title-attributte</p>
+    <p>Billede med en title-attributte</p>
     <img title="my title" src="https://www.w3.org/2015/10/W3C-Developers_Assets/W3C-Developers-Dark.png" alt="image" width="100" />
-    <p>This is an image without a title-attributte</p>
+    <p>Billede uden en title-attributte</p>
     <img src="https://www.w3.org/2015/10/W3C-Developers_Assets/W3C-Developers-Dark.png" alt="image" width="100" />
-    <p>This is an image without a alt-value of "W3C image"</p>
+    <p>Billede med en alt-value "W3C image"</p>
     <img src="https://www.w3.org/2015/10/W3C-Developers_Assets/W3C-Developers-Dark.png" alt="W3C image" width="100" />
 
-    <p>This is a textbox</p>
+    <p>textbox</p>
     <input type="text" />
 
-    <p>This is a checkbox</p>
+    <p>checkbox</p>
     <input type="checkbox" />
   </body>
 </html>

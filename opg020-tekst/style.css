@@ -1,0 +1,22 @@
+#p1 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.fed {
+  font-weight: bold;
+}
+
+#p2 {
+  color: red;
+  font-size: 1.5em;
+}
+
+#p3 {
+  font-family: "Chilanka";
+  font-size: 1.5em;
+  text-shadow: 2px 2px 2px red;
+}
+
+#p4 {
+  column-count: 3;
+}
