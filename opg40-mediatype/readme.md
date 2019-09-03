@@ -40,7 +40,7 @@ Se siden gennem live server - den burde se nogenlunde således ud:
 
 ![](opgave.png)
 
-Dit job er nu at sørge for at tilføje CSS til style.css således, at overskrift ændres til sort skrift og menu skjules når der printes (se resultat i Chrome's preview print ved at trykke ctrl+p). Brug ```css@Media print``` til at skabe et "print-view".
+Dit job er nu at sørge for at tilføje CSS til style.css således, at overskrift ændres til sort skrift og menu skjules når der printes (se resultat i Chrome's preview print ved at trykke ctrl+p). Brug ```@Media print``` til at skabe et "print-view".
 
 ![](opgave2.png)
 
