@@ -23,6 +23,7 @@ I denne opgave skal du prøve at lege med den simple form for dynamisk css. Star
 </body>
 </html>
 ```
+og følgende css
 
 ```css
 h1{
@@ -39,7 +40,7 @@ Se siden gennem live server - den burde se nogenlunde således ud:
 
 ![](opgave.png)
 
-Dit job er nu at sørge for at tilføje CSS til style.css således, at overskrift ændres til sort skrift og menu skjules når der printes (se resultat i Chrome's preview print ved at trykke ctrl+p)
+Dit job er nu at sørge for at tilføje CSS til style.css således, at overskrift ændres til sort skrift og menu skjules når der printes (se resultat i Chrome's preview print ved at trykke ctrl+p). Brug ```css@Media print``` til at skabe et "print-view".
 
 ![](opgave2.png)
 
