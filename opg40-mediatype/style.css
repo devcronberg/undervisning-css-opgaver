@@ -1,0 +1,17 @@
+h1{
+    color: red;
+}
+
+.menu {
+    text-transform: uppercase;
+    font-size: 1.5em;
+}
+
+@media print{
+    h1{
+        color: black;
+    }
+    .menu{
+        display: none;
+    }
+}
