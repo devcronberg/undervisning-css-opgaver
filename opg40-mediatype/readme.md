@@ -15,7 +15,7 @@ I denne opgave skal du prøve at lege med den simple form for dynamisk css. Star
 <body>
     <h1>Lorem ipsum dolor</h1>
     <div class="menu">
-        [<a href="#">Menu 1<a/>] [<a href="#">Menu 2<a/>] [<a href="#">Menu 3<a/>] [<a href="#">Menu 4<a/>]
+        [<a href="#">Menu 1</a>] [<a href="#">Menu 2</a>] [<a href="#">Menu 3</a>] [<a href="#">Menu 4</a>]
     </div>
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Error ratione vero deserunt obcaecati reiciendis optio nihil quaerat sequi suscipit magni similique enim nam ullam quod consequatur eligendi, earum placeat aperiam?</p>
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Error ratione vero deserunt obcaecati reiciendis optio nihil quaerat sequi suscipit magni similique enim nam ullam quod consequatur eligendi, earum placeat aperiam?</p>
