@@ -103,7 +103,7 @@ Prøv at se om du kan finde følgende:
 - $$("#myP1, #myP2")
 - $$(".myClass1") --- eller $$("p.myClass1")
 - $$(".myClass1.myClass2")
-- $$("p div")
+- $$("div p")
 - $$("div#div1 p")
 - $$("div.myClass3 p")
 - $$("ul")
