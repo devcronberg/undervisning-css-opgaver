@@ -45,6 +45,6 @@ Du skal nu tilføje en style.css (husk reference i head) og sørge for, at
 - paragraf med id "p1" skal benytte font-family Verdana, og det 1. ord "Lorem" og 3. ord "dolor" skal være fed (du må ikke bruge ```<b>``` opmærkning).
 - paragraf med id "p2" skal skrives med rød og en font størrelse på 1.5em
 - paragraf med id "p3" skal benytte en Google font kaldet Chilanka. Den kan du finde her: https://fonts.google.com/?category=Handwriting. Samtidigt skal du tilføje en text-shadow (prøv 2px 2px 2px red - og leg lidt med mulighederne)
-- paragraf med id "id4" som skal skrive teksten i 3 kolonner (brug column-count).
+- paragraf med id "p4" som skal skrive teksten i 3 kolonner (brug column-count).
 
 Se eventuelt min løsning på [html](index.html) og [css](style.css).
